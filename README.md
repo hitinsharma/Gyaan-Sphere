@@ -52,4 +52,4 @@ Join us in revolutionizing online examinations with ज्ञान-Sphere!
 
 ---
 
-*Feel free to contribute to our project on GitHub and help us make online assessments even better!*
+
